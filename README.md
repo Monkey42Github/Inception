@@ -24,5 +24,8 @@ This project serves as an introduction to the philosophy and working methods use
 ```
 3. Compile the project with make:
  ```sh
-  make
+  make all
 ```
+
+## Contributors
+[pschemit](https://github.com/pschemit)
