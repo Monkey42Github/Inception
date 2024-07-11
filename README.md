@@ -28,4 +28,5 @@ This project serves as an introduction to the philosophy and working methods use
 ```
 
 ## Contributor
-[pschemit](https://github.com/pschemit)
+[pschemit](https://github.com/Monkey42Github)
+
